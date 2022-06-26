@@ -1,0 +1,16 @@
+export const colors = {
+  placeholder: "#A3AAB0",
+  white: "#FFFFFF",
+  primary: "#6CDCAE",
+  dprimary: "#72C0A0",
+  ddprimary: "#78A592",
+  background: "#FAF7F0",
+  two: "#84E2D5",
+  three: "#DD767C",
+  four: "#F3BE74",
+  five: "#9DBEF5",
+  wrong: "#DD767C",
+  neutral: "#F8F66C",
+  right: "#A1DD78",
+  text: "#283642",
+};
